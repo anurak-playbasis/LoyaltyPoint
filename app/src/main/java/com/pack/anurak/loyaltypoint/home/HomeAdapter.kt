@@ -32,8 +32,6 @@ class HomeAdapter: BaseAdapter() {
             viewGroup.setBackgroundColor(list[position].second)
         }
 
-        Log.i("HomeAdapter","---P list size: "+list.size)
-        Log.i("HomeAdapter","---P MOD: "+list.size%10)
         return  view
     }
 
