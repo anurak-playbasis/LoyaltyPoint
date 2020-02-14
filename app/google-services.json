@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599251694759",
+    "firebase_url": "https://loyaltypoint-dc0de.firebaseio.com",
+    "project_id": "loyaltypoint-dc0de",
+    "storage_bucket": "loyaltypoint-dc0de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599251694759:android:cee3ddca52a5984afad782",
+        "android_client_info": {
+          "package_name": "com.pack.anurak.loyaltypoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599251694759-77qqgfuptob2qac2tlrijm33p5eic1sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa7VBTo_GvWi7W59H_qolLvvNc2yZSw7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599251694759-77qqgfuptob2qac2tlrijm33p5eic1sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

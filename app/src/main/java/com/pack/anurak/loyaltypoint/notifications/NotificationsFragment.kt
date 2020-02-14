@@ -8,12 +8,16 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
+import com.pack.anurak.loyaltypoint.MainActivity
 import com.pack.anurak.loyaltypoint.R
 
 class NotificationsFragment : Fragment() {
 
     private lateinit var notificationsViewModel: NotificationsViewModel
-
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        (activity as MainActivity).setActionBarTitle(getString(R.string.title_notifications))
+    }
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
