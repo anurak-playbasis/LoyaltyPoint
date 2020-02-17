@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "599251694759-c2jhup57sjdc1seug08gnpn02ajn00a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pack.anurak.loyaltypoint",
+            "certificate_hash": "0fe9ace2c9d4b3a42e8c26031d63e9c8e63531bb"
+          }
+        },
+        {
           "client_id": "599251694759-77qqgfuptob2qac2tlrijm33p5eic1sa.apps.googleusercontent.com",
           "client_type": 3
         }

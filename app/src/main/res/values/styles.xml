@@ -11,6 +11,11 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+    <style name="MyToolbarTheme"
+        parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@color/black</item>
+        <item name="titleTextColor">@color/white</item>
+    </style>
 
 </resources>
 
